@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>excludevar</name>
+   <tag></tag>
+   <elementGuidId>412a4207-0481-4269-a568-cf4e2dc19958</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;EXCLUSIONS&quot;]//*[contains(text(),&quot;${var3}&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;EXCLUSIONS&quot;]//*[contains(text(),&quot;${var3}&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

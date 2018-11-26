@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TourTypeSelection</name>
+   <tag></tag>
+   <elementGuidId>280ca792-b502-4bd1-8fd4-4e7a607abdc2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li/div[@class=&quot;select2-result-label&quot;][text()=&quot;${type}&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li/div[@class=&quot;select2-result-label&quot;][text()=&quot;${type}&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
